@@ -2,9 +2,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wesley Charles</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=B00rges&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 HTML | CSS | JavaScript | Node.js 
+- 🔥 In search of a professional journey.
 
-- 💬 Ask me about Resolver problemas e criar soluções eficientes utilizando JavaScript.
+- 💬 Ask me about: **HTML | CSS | JavaScript | Node.js**
+  
+- 🌱 I’m currently learning ...
 
 <br><br>
 
@@ -33,7 +35,7 @@
 
 <p align="left" style="background:yellow">
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-B00rges-05122A?style=flat&logo=gmail" alt="gmail"/>
+  <img align="center" src="https://img.shields.io/badge/-wesleycharlesb00rges@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
 <!--
