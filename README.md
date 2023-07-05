@@ -1,7 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wesley Charles</h1>
+## Bem-vindo(a) ao perfil do Wesley Charles 😁
 
-- 🔥 In search of a professional journey.
-- 🌱 Student.
+- 🔥 Em busca de uma jornada profissional.
 
  <div>
    <a href="https://github.com/devemdobro">
